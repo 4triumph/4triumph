@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 :wave: Hi, I'm 4triumph !<br>
-:thought_balloon: learing alogrithms and logical thinking at codeforces and Leetcode <br>
-:video_game: Nintendo: Splatoon && Legend of Zelda && Ace Attorney <br>
+:thought_balloon: learing alogrithms and logical thinking at codeforces & Leetcode <br>
+:video_game: Nintendo: Splatoon & Legend of Zelda & Ace Attorney <br>
 :fist_raised:Currently preparing for exams and looking for internships
 
 
