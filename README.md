@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![4triumph's GitHub stats](https://github-readme-stats.vercel.app/api?username=4triumph&show_icons=true&theme=ambient_gradient)
+![4triumph's GitHub stats](https://github-readme-stats.vercel.app/api?username=4triumph&show_icons=true&theme=ambient_gradient&hide_rank=true&rank_icon=github)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4triumph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
