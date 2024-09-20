@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Violet</h1>
+<h1>Hi 👋, I'm 4triumph</h1>
 
 # 💻 Tech Stack:
 
