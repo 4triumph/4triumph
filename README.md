@@ -12,7 +12,7 @@
 </picture>
 
 
-[![4triumph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4triumph&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)]
+![4triumph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4triumph&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)
 
 ![4triumph's GitHub stats](https://github-readme-stats.vercel.app/api?username=4triumph\&rank_icon=github&theme=ambient_gradient)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&include_all_commits=false&count_private=true)
 
